@@ -1,5 +1,5 @@
 # Algorithm
 Algorithm with C++
 
-https://solved.ac/class
-현재 class 1 풀고 있습니다.
+https://solved.ac/class/2
+현재 class 2 풀고 있습니다.
